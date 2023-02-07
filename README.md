@@ -308,3 +308,6 @@ qqCookieFile=
 * [NeteaseCloudMusicApiWithGo](https://github.com/sirodeneko/NeteaseCloudMusicApiWithGo)
 * [gcli](https://github.com/gookit/gcli)
 * ...
+
+[![Stargazers over time](https://starchart.cc/anhoder/go-musicfox.svg)](https://starchart.cc/anhoder/go-musicfox)
+
